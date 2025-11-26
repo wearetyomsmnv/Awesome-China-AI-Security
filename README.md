@@ -4,10 +4,15 @@
 
 <h1 style="border: none; margin-top: 20px; margin-bottom: 10px;">
   <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5em; font-weight: 800;">
-    AI Security in China
+    AI Security China
   </span>
   <span style="font-size: 2em; margin-left: 10px;">🇨🇳</span>
 </h1>
+
+<!-- Author Credit -->
+<p align="center" style="margin: 15px 0; font-size: 1em; color: #555; font-style: italic;">
+  ✨ <strong>Curated with ❤️ by</strong> <a href="https://t.me/pwnai" style="color: #667eea; text-decoration: none; font-weight: 600; border-bottom: 1px dotted #667eea;">@pwnai</a> ✨
+</p>
 
 <p style="font-size: 1.3em; color: #666; margin: 20px 0; font-weight: 300; letter-spacing: 0.5px;">
   🛡️ <strong>Comprehensive Intelligence Hub</strong> for China's AI Security Ecosystem
