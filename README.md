@@ -4,7 +4,7 @@
 
 <h1 style="border: none; margin-top: 20px; margin-bottom: 10px;">
   <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5em; font-weight: 800;">
-    AI Security China
+    AI Security in China
   </span>
   <span style="font-size: 2em; margin-left: 10px;">🇨🇳</span>
 </h1>
